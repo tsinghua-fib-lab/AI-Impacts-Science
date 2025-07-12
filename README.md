@@ -10,4 +10,4 @@ sklearn==1.6.1\
 matplotlib==3.10.1\
 seaborn==0.13.2
 
-#
+## See code/run_all.sh for instructions

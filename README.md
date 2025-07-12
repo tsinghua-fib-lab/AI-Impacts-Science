@@ -1,6 +1,7 @@
 # Source code for the paper 'AI Expands Scientists’ Impact but Contracts Science’s Focus'
 
 ## Requirements
+System: Ubuntu 22.04.5\
 python==3.11.0\
 pytorch==2.2.1\
 numpy==1.26.4\

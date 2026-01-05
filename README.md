@@ -11,4 +11,8 @@ sklearn==1.6.1\
 matplotlib==3.10.1\
 seaborn==0.13.2
 
-## See code/run_all.sh for instructions
+## Code
+See code/run_all.sh for instructions
+
+## Dataset
+See the dataset of AI in natural science research across 41.3 million papers at https://doi.org/10.5281/zenodo.15779090, which we constructed with finetuned LMs and used for our analyses.

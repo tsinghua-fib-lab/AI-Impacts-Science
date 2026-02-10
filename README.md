@@ -15,5 +15,5 @@ seaborn==0.13.2
 See code/run_all.sh for instructions
 
 ## Dataset
-See the dataset of AI in natural science research across 41.3 million papers at https://doi.org/10.5281/zenodo.15779090, which we constructed with finetuned LMs and used for our analyses.
+See the dataset of AI in natural science research across 41.3 million papers at https://doi.org/10.5281/zenodo.15779090, which we constructed with finetuned LMs and used for our analyses.\
 See our finetuned paper classifier model at https://huggingface.co/haohao11/AI4Sci_Classifier.
